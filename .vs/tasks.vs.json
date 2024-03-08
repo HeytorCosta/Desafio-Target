@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Atividades",
+      "appliesTo": "Atividades/",
+      "type": "launch"
+    }
+  ]
+}
